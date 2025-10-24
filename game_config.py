@@ -64,7 +64,7 @@ PWS_V1_CONFIG = GameConfig(
 # soon as it becomes available from reverse-engineering or memory scanning.
 PWS_V2_CONFIG = GameConfig(
     name="PowerWash Simulator 2",
-    process_name="PowerWashSimulator2.exe",
+    process_name="Powerwash Simulator 2.exe",
     description="Sequel release. All offsets below must be verified.",
     base_addresses={
         # TODO: Identify the new base pointer for player currency/money.
